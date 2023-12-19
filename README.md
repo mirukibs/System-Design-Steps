@@ -52,23 +52,18 @@ Welcome to the System Design Basics! This guide is your compass in the vast sea 
 - Plan how the system will handle errors gracefully.
 - Implement logging mechanisms for debugging and monitoring.
 
-### 10. 🎨 Prototyping:
-
-- Consider creating a prototype or proof-of-concept.
-- Validate critical aspects of your design before full-scale development.
-
-### 11. 💻 Technology Stack:
+### 10. 💻 Technology Stack:
 
 - Confirm technologies and frameworks.
 - Consider what you and your team is already competent with.
 - Ensure alignment with the chosen architecture (e.g., Spring Boot, Laravel).
 
-### 12. 🧪 Testing Strategy:
+### 11. 🧪 Testing Strategy:
 
 - Develop a comprehensive testing strategy like a mad scientist.
 - Include unit testing, integration testing, and end-to-end testing, you can't go wrong with those.
 
-### 13. 📚 Documentation:
+### 12. 📚 Documentation:
 
 - Document your system's odyssey in detail.
 - Provide some resources for devs in your team now and later on.
