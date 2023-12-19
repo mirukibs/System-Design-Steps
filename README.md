@@ -1,8 +1,8 @@
-# 🚀 Software Design Basics 🚀
+# 🚀 System Design Basics 🚀
 
 ## Overview
 
-Welcome to the Software Design Basics! This guide is your compass in the vast sea of system design. Whether you're embarking on a project or navigating the intricate pathways of software architecture, this repo will be your trusty first mate.
+Welcome to the System Design Basics! This guide is your compass in the vast sea of system design. Whether you're embarking on a project or navigating the intricate pathways of software architecture, this repo will be your trusty first mate.
 
 ## Steps for System Design
 
